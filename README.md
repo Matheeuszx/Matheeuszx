@@ -16,8 +16,7 @@ I am constantly updating my knowledge and seeking new challenges in the technolo
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:guimbragatto@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/guilherme-miyamoto-bragatto)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/matheus-santana-oliveira-2a7898231)
 
 <h3 align="left">My Stack </h3>
 
@@ -28,11 +27,7 @@ I am constantly updating my knowledge and seeking new challenges in the technolo
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25" alt="css3 logo"  />
   <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="25" alt="swift logo"  />
-  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="25" alt="photoshop logo"  />
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="25" alt="java"  />
   <img width="8" />
@@ -55,11 +50,11 @@ I am constantly updating my knowledge and seeking new challenges in the technolo
 #
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&color=FF00F6&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Academic+Experience+" alt="Typing SVG">
 
-- **🟥  Mackenzie | information systems**  
+- **🟥  FAM - FACULDADE DAS AMERICAS | Science Computer**  
   *🗓️ Feb 2025 – Dez 2028*  
 
-- **🟩 FECAP | digital game programming**  
-  *🗓️ Feb 2021 – Nov 2023*  
+- **🟩 ETEC | Mechatronics Technician*  
+  *🗓️ Feb 2022 – Nov 2023*  
 #
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bragatto-tec/bragatto-tec/output/github-contribution-grid-snake-dark.svg">
