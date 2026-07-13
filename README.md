@@ -7,8 +7,7 @@
 
 #
 
-<p align="center">Information Systems student at Mackenzie Presbyterian University. Graduated from Fecap's Technical High School in Digital Game Programming.
-I am constantly updating my knowledge and seeking new challenges in the technology field. Focused on developing my Full-Stack skills with a focus on JAVA/Spring Boot.
+<p align="center">Student of Computer Science at FAM, with a technical background in Mechatronics from ETEC. I'm constantly updating my knowledge and seeking new challenges in the technology field, focused on developing my Full-Stack skills, primarily in Java/Spring Boot and JavaScript.
 
 #
 
